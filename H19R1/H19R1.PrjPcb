@@ -67,7 +67,7 @@ GenerateClassCluster=0
 DocumentUniqueId=HLZCPWRB
 
 [Document2]
-DocumentPath=..\Design\H01R0_Frontend 1.SchDoc
+DocumentPath=..\Design\H19R1_Frontend 1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -84,7 +84,7 @@ GenerateClassCluster=0
 DocumentUniqueId=IEKVTBAZ
 
 [Document3]
-DocumentPath=..\Design\H01R0_Frontend 2.SchDoc
+DocumentPath=..\Design\H19R1_Frontend 2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -101,7 +101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=GNGXNYEU
 
 [Document4]
-DocumentPath=..\Design\H01R0_Backend.SchDoc
+DocumentPath=..\Design\H19R1_Backend.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -116,6 +116,18 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TQGQSHTG
+
+[Parameter1]
+Name=revision
+Value=3.0
+
+[Parameter2]
+Name=Module_Description
+Value=DC Motor Driver
+
+[Parameter3]
+Name=Module_Name
+Value=H19R1
 
 [Configuration1]
 Name=Sources
